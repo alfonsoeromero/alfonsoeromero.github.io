@@ -1,0 +1,7 @@
+title: Alfonso E. Romero – Machine Learning Notes
+description: Notes on probabilistic ML, modeling, and applied data science
+theme: minima
+
+markdown: kramdown
+kramdown:
+  math_engine: mathjax
